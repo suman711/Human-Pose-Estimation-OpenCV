@@ -5,6 +5,8 @@ Human pose estimation from video plays a critical role in various applications s
 
 In this project I'm implementing Pose Estimation using OpenCV and MediaPipe on Input Videos and also Livestream video (Webcam). This involves tracking of Human body parts and then identifying the important landmarks on each body part such as Head position, Arm & Elbow position, Lower body, legs, etc. Then will make use of all those body landmarks to detect and draw or connect the landmarks to form the actual human body pose on the video. Finally, I extracted the actual body pose that was detected and drawn or highlighted from the video and displayed it on a separate blank screen.
 
+<b>Output: </b>https://drive.google.com/file/d/1psjlHy76MJHPUj2mNs6tL2H20NebsFWA/view?usp=sharing
+
 ### Libraries Used:
 <ol>
   <li>NumPy</li>
